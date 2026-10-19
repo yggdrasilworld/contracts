@@ -1,0 +1,14 @@
+contracts/maintenance-pool/src/test.rs
+  h_d2833f622cce50 1097-1134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cad9582f50c8d7af3272da6aa65f06ce0d2e7356",
+  "prompts": {},
+  "humans": {
+    "h_d2833f622cce50": {
+      "author": "Your Name <you@example.com>"
+    }
+  }
+}
