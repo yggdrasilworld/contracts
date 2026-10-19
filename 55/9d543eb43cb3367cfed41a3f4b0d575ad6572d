@@ -1,0 +1,16 @@
+contracts/escrow/src/test.rs
+  h_d2833f622cce50 4,373-374,439-440,2156
+contracts/milestones/src/test.rs
+  h_d2833f622cce50 4,204-205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "559d543eb43cb3367cfed41a3f4b0d575ad6572d",
+  "prompts": {},
+  "humans": {
+    "h_d2833f622cce50": {
+      "author": "Your Name <you@example.com>"
+    }
+  }
+}
